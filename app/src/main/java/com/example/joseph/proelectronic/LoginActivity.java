@@ -20,7 +20,7 @@ public class LoginActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
 
-        Button btnLogin= (Button)findViewById(R.id.btnLogin);
+        //Button btnLogin= (Button)findViewById(R.id.btnLogin);
         Button btnRegistrar= (Button)findViewById(R.id.btnRegistrar);
 
 
